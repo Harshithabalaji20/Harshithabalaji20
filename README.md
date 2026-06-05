@@ -167,7 +167,7 @@ class HarshithaB:
 |---------|-------|------------|
 | [🔬 WSN Optimization](https://github.com/harshithabalaji20) | `Python` `IoT` `WSN` `Algorithms` | Novel optimization technique for Wireless Sensor Networks — researching network topology, energy efficiency & routing protocols. Developing algorithms to enhance reliability. *(Mar 2025 – Present)* |
 | [🤖 Facial Recognition System](https://github.com/harshithabalaji20) | `Raspberry Pi` `OpenCV` `Machine Learning` | Real-time facial recognition on embedded hardware. Optimized image processing pipeline for resource-constrained environments. High accuracy despite embedded system limitations. *(Jan – Jul 2024)* |
-| [🔒 Laser-Based Home Security](https://github.com/harshithabalaji20) | `Sensors` `Embedded C` `Arduino` | Intrusion detection system using laser beams with automatic alarm triggering. Hardware-level security solution designed from scratch. *(Nov – Dec 2023)* |
+| [🔒 Laser-Based Home Security](https://github.com/harshithabalaji20) | `Sensors` `Embedded C`  | Intrusion detection system using laser beams with automatic alarm triggering. Hardware-level security solution designed from scratch. *(Nov – Dec 2023)* |
 
 </div>
 
