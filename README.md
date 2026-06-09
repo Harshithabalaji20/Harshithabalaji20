@@ -100,7 +100,7 @@ class HarshithaB:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshithabalaji20&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=harshithabalaji20&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -167,7 +167,7 @@ class HarshithaB:
 |---------|-------|------------|
 | [🔬 WSN Optimization](https://github.com/harshithabalaji20) | `Python` `IoT` `WSN` `Algorithms` | Novel optimization technique for Wireless Sensor Networks — researching network topology, energy efficiency & routing protocols. Developing algorithms to enhance reliability. *(Mar 2025 – Present)* |
 | [🤖 Facial Recognition System](https://github.com/harshithabalaji20) | `Raspberry Pi` `OpenCV` `Machine Learning` | Real-time facial recognition on embedded hardware. Optimized image processing pipeline for resource-constrained environments. High accuracy despite embedded system limitations. *(Jan – Jul 2024)* |
-| [🔒 Laser-Based Home Security](https://github.com/harshithabalaji20) | `Sensors` `Embedded C`  | Intrusion detection system using laser beams with automatic alarm triggering. Hardware-level security solution designed from scratch. *(Nov – Dec 2023)* |
+| [🔒 Laser-Based Home Security](https://github.com/harshithabalaji20) | `Sensors` `Embedded C` `Arduino` | Intrusion detection system using laser beams with automatic alarm triggering. Hardware-level security solution designed from scratch. *(Nov – Dec 2023)* |
 
 </div>
 
@@ -220,7 +220,7 @@ class HarshithaB:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshithabalaji20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitha-balaji-343779254/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshithabalaji20@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/harshithabalaji20)
 
