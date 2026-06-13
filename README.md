@@ -18,7 +18,7 @@
 class HarshithaB:
     name       = "Harshitha B"
     location   = "Bengaluru, Karnataka, India"
-    degree     = "B.E. – Electronics & Communications Engineering"
+    degree     = "B.E. - Electronics & Communications Engineering"
     college    = "Sri Krishna Institute of Technology, Bangalore"
     graduation = "May 2026"
 
