@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harshitha B
+#  Hi, I'm Harshitha B
 
 <div align="center">
 
@@ -16,12 +16,12 @@ I am an **Electronics & Communication Engineering graduate** and currently worki
 
 My work and learning interests are focused on:
 
-- 🔧 Embedded Systems
-- ⚡ Electronics & Hardware
-- 🧠 Computer Vision
-- 🐍 Python
-- 💻 C & Embedded C
-- 🔬 Research & Prototype Development
+-  Embedded Systems
+-  Electronics & Hardware
+-  Computer Vision
+-  Python
+-  C & Embedded C
+-  Research & Prototype Development
 
 I enjoy working on practical engineering problems that combine **hardware and software**.
 
@@ -29,15 +29,15 @@ Currently, I am strengthening my skills through hands-on learning, technical pro
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
-### 💻 Programming
+###  Programming
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white)
 
-### 🔧 Embedded & Hardware
+###  Embedded & Hardware
 
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-70A5FD?style=flat-square)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
@@ -53,13 +53,13 @@ Currently, I am strengthening my skills through hands-on learning, technical pro
 - Timers
 - Interrupts
 
-### 🔌 Communication Protocols
+###  Communication Protocols
 
 - SPI
 - UART
 - I2C
 
-### 👁️ Computer Vision
+###  Computer Vision
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
@@ -67,7 +67,7 @@ Currently, I am strengthening my skills through hands-on learning, technical pro
 - Image Processing
 - Object Detection
 
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 
 - Arduino IDE
 - MATLAB
@@ -78,9 +78,9 @@ Currently, I am strengthening my skills through hands-on learning, technical pro
 
 ---
 
-## 💼 Experience
+##  Experience
 
-### 🔬 Research Assistant
+###  Research Assistant
 
 **Research & Development**
 
@@ -92,7 +92,7 @@ Currently, I am strengthening my skills through hands-on learning, technical pro
 
 ---
 
-### 🏭 Technology Intern
+###  Technology Intern
 
 **Kennametal Shared Services Pvt. Ltd.**
 
@@ -102,7 +102,7 @@ Currently, I am strengthening my skills through hands-on learning, technical pro
 
 ---
 
-### 📡 Engineering Intern
+###  Engineering Intern
 
 **Bharat Electronics Limited (BEL)**
 
@@ -112,7 +112,7 @@ Currently, I am strengthening my skills through hands-on learning, technical pro
 
 ---
 
-## 🎓 Education
+##  Education
 
 ### Bachelor of Engineering (B.E.)
 
@@ -124,7 +124,7 @@ Currently, I am strengthening my skills through hands-on learning, technical pro
 
 ---
 
-## 📚 Learning Roadmap
+##  Learning Roadmap
 
 I am continuously developing my technical skills through a structured learning path:
 
